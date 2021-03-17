@@ -21,4 +21,3 @@ def while_A():
                         j+=1
                 i+=1
                 print()
-
