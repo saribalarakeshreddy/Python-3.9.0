@@ -1,0 +1,1 @@
+This is a python library that prints patterns of Capital Alphabtes, Small Alphabets, Numbers and Symbols
